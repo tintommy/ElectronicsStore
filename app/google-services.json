@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "401124074874",
+    "firebase_url": "https://tttn-electronics-store-default-rtdb.firebaseio.com",
+    "project_id": "tttn-electronics-store",
+    "storage_bucket": "tttn-electronics-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401124074874:android:a9f17790dcb4c0c41862c3",
+        "android_client_info": {
+          "package_name": "com.example.tttn_electronicsstore_customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFJdFlreaJKsAO8IGO-jcRVgQtUcuoOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401124074874:android:c3a8044f8001b4f81862c3",
+        "android_client_info": {
+          "package_name": "com.example.tttn_electronicsstore_manager_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFJdFlreaJKsAO8IGO-jcRVgQtUcuoOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
